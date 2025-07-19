@@ -1,0 +1,13 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Using Javascript to create a graph data structure in order to dynamically find the shortest route between the position of a knight in chess and an end position using moves that only a knight can take.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
